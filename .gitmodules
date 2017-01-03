@@ -1,0 +1,3 @@
+[submodule "ThirdParty/tclap"]
+	path = ThirdParty/tclap
+	url = https://github.com/ufz/tclap.git
